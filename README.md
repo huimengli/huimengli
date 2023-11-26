@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huimengli
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning assembly
+- 🌱 I’m currently learning Java
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me QQ:2913394404
 
